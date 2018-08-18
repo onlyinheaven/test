@@ -1,0 +1,11 @@
+﻿生成启动时间为 2018/7/12 11:46:33。
+     1>项目“E:\mk\公邮\研二\三维\stereospeckle\samplestereo\samplestereo.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\mk\applications\vs2013\VC\bin\CL.exe /c /IE:\mk\applications\pylon5\development\include /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "..\..\..\..\..\applications\opencv3.4.1\opencv-3.4.1_sourcecode\samples\cpp\stereo_match.cpp"
+         stereo_match.cpp
+     1>..\..\..\..\..\applications\opencv3.4.1\opencv-3.4.1_sourcecode\samples\cpp\stereo_match.cpp(11): fatal error C1083: 无法打开包括文件: “opencv2/imgproc.hpp”: No such file or directory
+     1>已完成生成项目“E:\mk\公邮\研二\三维\stereospeckle\samplestereo\samplestereo.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.47

@@ -1,0 +1,15 @@
+﻿生成启动时间为 2018/7/12 11:50:58。
+     1>项目“E:\mk\公邮\研二\三维\stereospeckle\samplestereo\samplestereo.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\mk\applications\vs2013\VC\bin\x86_amd64\CL.exe /c /IE:\mk\applications\opencv3.4.1\opencv3.4.1_vs2013bulid_x64\install\include /IE:\mk\applications\opencv3.4.1\opencv3.4.1_vs2013bulid_x64\install\include\opencv /IE:\mk\applications\opencv3.4.1\opencv3.4.1_vs2013bulid_x64\install\include\opencv2 /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D _CRT_SECURE_NO_WARNINGS /D _MBCS /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt "..\..\..\..\..\applications\opencv3.4.1\opencv-3.4.1_sourcecode\samples\cpp\stereo_match.cpp"
+         stereo_match.cpp
+       Link:
+         E:\mk\applications\vs2013\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\mk\公邮\研二\三维\stereospeckle\x64\Release\samplestereo.exe" /NOLOGO /LIBPATH:E:\mk\applications\opencv3.4.1\opencv3.4.1_vs2013bulid_x64\install\x64\vc12\lib "E:\mk\applications\opencv3.4.1\opencv3.4.1_vs2013bulid_x64\install\x64\vc12\lib\*.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\mk\公邮\研二\三维\stereospeckle\x64\Release\samplestereo.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\mk\公邮\研二\三维\stereospeckle\x64\Release\samplestereo.lib" /MACHINE:X64 x64\Release\stereo_match.obj
+         正在生成代码
+         已完成代码的生成
+         samplestereo.vcxproj -> E:\mk\公邮\研二\三维\stereospeckle\x64\Release\samplestereo.exe
+     1>已完成生成项目“E:\mk\公邮\研二\三维\stereospeckle\samplestereo\samplestereo.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.80
